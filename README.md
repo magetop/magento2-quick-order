@@ -4,14 +4,14 @@
 
 ## Highlight features
 
-- Allow customers to purchase products from a single page
-- Customers can search product using SKU or Name
-- The customer can update the quantity of the product on the quick order page
-- Add multiple different products to quick order
-- Display subtotal value and total order value on the quick order page
-- Bulk add products to cart directly or via a CSV file
-- Highly-customizable design to match the store’s theme
-- Few-click bulk purchase
+- Allow customers to purchase products from a single page.
+- Customers can search product using SKU or Name.
+- The customer can update the quantity of the product on the quick order page.
+- Add multiple different products to quick order.
+- Display subtotal value and total order value on the quick order page.
+- Bulk add products to cart directly or via a CSV file.
+- Highly-customizable design to match the store’s theme.
+- Few-click bulk purchase.
 - 100% Open-source, Support multi-store, Support multi-language.
 - Easy to install and customize.
 - And many more feature ...
