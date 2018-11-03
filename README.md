@@ -12,6 +12,8 @@
 - Bulk add products to cart directly or via a CSV file
 - Highly-customizable design to match the store’s theme
 - Few-click bulk purchase
+- 100% Open-source, Support multi-store, Support multi-language.
+- Easy to install and customize.
 - And many more feature ...
 
 ## More features & Demo
