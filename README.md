@@ -1,6 +1,6 @@
-# Magento 2 Quick Order Extension by MageTop
+# Magento 2 Quick Order Extension by Magetop
 
-**Magento 2 Quick Order Extension** by MageTop allows customers to quickly order products in bulk without navigating the product pages. Simply enter the SKU or NAME, Quantity to add items to cart and special feature is import products to cart with a CSV file.
+**Magento 2 Quick Order Extension** by Magetop allows customers to quickly order products in bulk without navigating the product pages. Simply enter the SKU or NAME, Quantity to add items to cart and special feature is import products to cart with a CSV file.
 
 ## Highlight features
 
@@ -16,13 +16,13 @@
 - Easy to install and customize.
 - And many more feature ...
 
-## More features & Demo
+## More features & demo
 
 - Extension details : https://www.magetop.com/magento-2-quick-order-extension.html
 - Frontend demo : https://magento2.demo.magetop.com/demo-full/quick-order
 - Backend demo : https://magento2.demo.magetop.com/demo-full/admin
 
-## Support & Contact info
+## Support & contact info
 
 - Need help setting up or want to customize this extension to meet your business needs? 
 - Get instant support with our Live Chat
